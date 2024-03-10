@@ -19,8 +19,8 @@ const CONFIG = {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          forks: true, // Forked projects will not be displayed if set to true.
+          projects: ['AvAl4nch/AvAl4nch.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -52,7 +52,7 @@ const CONFIG = {
 // },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Laith Salman',
     description: '',
     imageURL: '',
   },
@@ -79,9 +79,9 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Princess Sumaya University for Technology',
-      position: 'Student',
-      from: 'September 2021',
+      company: 'Cyber Security club',
+      position: 'Instructor',
+      from: 'march 2024',
       to: 'Present',
     },
   ],
@@ -189,11 +189,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+footer: `Made with <a 
+// class="text-primary" href="https://github.com/arifszn/gitprofile"
+// target="_blank"
+// rel="noreferrer"
+// >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
