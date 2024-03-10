@@ -101,7 +101,7 @@ const CONFIG = {
       to: 'current',
     },
   ],
-  Publications: [
+  publications: [
     {
       title: 'Hack The Box Curling writeup',
       conferenceName: 'Hack The Box',
