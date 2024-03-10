@@ -91,6 +91,11 @@ const CONFIG = {
       body: 'Lorem ipsum dolor sit amet',
       year: 'work in progress',
     },
+    {
+      name: 'EJPTv2',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'work in progress',
+    },
   ],
   educations: [
     {
