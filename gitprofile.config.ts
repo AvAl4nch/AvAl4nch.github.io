@@ -95,7 +95,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Princess Sumaya University for Technology',
-      degree: 'Bachelor's degree',
+      degree: 'Bachelor\'s degree',
       from: '2021',
       to: 'current',
     },
