@@ -91,11 +91,7 @@ const CONFIG = {
       body: 'Lorem ipsum dolor sit amet',
       year: 'work in progress',
     },
-    {
-      name: 'EJPTv2',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'work in progress',
-    },
+
   ],
   educations: [
     {
@@ -131,7 +127,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
