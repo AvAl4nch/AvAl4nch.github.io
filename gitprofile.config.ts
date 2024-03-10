@@ -146,6 +146,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
+      'night',
       'light',
       'dark',
       'cupcake',
@@ -172,7 +173,6 @@ const CONFIG = {
       'business',
       'acid',
       'lemonade',
-      'night',
       'coffee',
       'winter',
       'dim',
