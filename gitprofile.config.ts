@@ -103,12 +103,12 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Hack The Box Curling writeup',
-      conferenceName: 'Hack The Box',
-      authors: 'Laith Salman',
-      link: 'https://medium.com/@laithsalman2522003/curling-is-an-easy-linux-box-created-by-l4mpje-on-hack-the-box-and-was-released-in-2019-10e5d183b9d7',
-      description:
-        'A simple comprehensive writup that i wrote when i was solving the Curling on Hack The Box..',
+      // title: 'Hack The Box Curling writeup',
+      // conferenceName: 'Hack The Box',
+      // authors: 'Laith Salman',
+      // link: 'https://medium.com/@laithsalman2522003/curling-is-an-easy-linux-box-created-by-l4mpje-on-hack-the-box-and-was-released-in-2019-10e5d183b9d7',
+      // description:
+      //   'A simple comprehensive writup that i wrote when i was solving the Curling on Hack The Box..',
     },
 
   ],
