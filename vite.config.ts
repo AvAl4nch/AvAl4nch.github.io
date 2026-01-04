@@ -55,4 +55,10 @@ export default defineConfig({
   define: {
     CONFIG: CONFIG,
   },
+  server: {
+    host: true, // Listen on all local IPs
+    allowedHosts: [
+      'profile.laith-salman.com',
+    ]
+  }
 });
